@@ -1,1 +1,1 @@
-{"type":"atLeast","required":2,"scripts":[{"type":"sig","keyHash":"1fa8a0ebd0e573fd0fc105dbf42d569a7314fb99d890559d7af0e526"},{"type":"sig","keyHash":"bde51761c087a985f6cc1cceacac93073dbe94064abdbff9ac6d28eb"}]}
+{"required":2,"scripts":[{"keyHash":"1fa8a0ebd0e573fd0fc105dbf42d569a7314fb99d890559d7af0e526","type":"sig"},{"keyHash":"bde51761c087a985f6cc1cceacac93073dbe94064abdbff9ac6d28eb","type":"sig"}],"type":"atLeast"}

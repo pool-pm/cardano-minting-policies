@@ -1,1 +1,1 @@
-{"type":"all","scripts":[{"type":"before","slot":920060283},{"type":"sig","keyHash":"19974a579eb2ea7bcc2c6df06e203b42bd6ad2d481d5081777fcc654"}]}
+{"scripts":[{"slot":920060283,"type":"before"},{"keyHash":"19974a579eb2ea7bcc2c6df06e203b42bd6ad2d481d5081777fcc654","type":"sig"}],"type":"all"}
