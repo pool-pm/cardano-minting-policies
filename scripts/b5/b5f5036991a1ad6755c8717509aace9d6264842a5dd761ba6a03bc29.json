@@ -1,1 +1,1 @@
-{"scripts":[{"slot":45000102,"type":"before"},{"keyHash":"c1cfc17efc6c7bf556548e17808ecadff439027a36051ed119479bd5","type":"sig"}],"type":"all"}
+{"type":"all","scripts":[{"type":"before","slot":45000102},{"type":"sig","keyHash":"c1cfc17efc6c7bf556548e17808ecadff439027a36051ed119479bd5"}]}
